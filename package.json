@@ -8,7 +8,7 @@
     "node": "~v0.4.12"
   },
   "dependencies": {
-    "raphael": "git://github.com/DmitryBaranovskiy/raphael.git"
+    "raphael": "^2.1.4"
   },
   "devDependencies": {
     "eslint": "^1.10.3",
